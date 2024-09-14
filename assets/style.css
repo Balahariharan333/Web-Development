@@ -1,0 +1,26 @@
+
+
+.center-img{
+    display: block;
+    margin: auto;
+    margin: auto;
+    max-width: 100%;
+    width: 500px;
+    height: 300px;
+}
+.card{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.card {
+    max-height: 1740px;
+    max-width: 1220px;
+    padding: 30px;
+    margin: 20px auto;
+    background-color: rgb(13, 1, 1);
+}
+.heading{
+    color: blueviolet;
+}
